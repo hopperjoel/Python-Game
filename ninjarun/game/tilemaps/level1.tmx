@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="200" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="5">
+ <tileset firstgid="1" source="env_mon.tsx"/>
+ <tileset firstgid="226" source="pixel_platform_03_tileset_final.tsx"/>
+ <layer id="1" name="Ground" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1DEOgCAMBVBOLN5/0sHByRIUbMJ7yd9ISUlLKQAAAAAAAAAAAAAAAABEtiD1zH5lFU/vwP9aZzY615L6UZ0Z6e27p8f7XSv+EZmNnpdRu5Z5R97WtyN5HJY9YNg=
+  </data>
+ </layer>
+ <layer id="2" name="Ladders" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1kENACAQA8EDCfhXiQIU3PuaMKOgnyZbBQAAAAAAAAAApLrTAyDYXtMLINfxD2jpK+jpK+jpKwAAfvIAf9ACEQ==
+  </data>
+ </layer>
+ <objectgroup id="3" name="Coins">
+  <object id="1" gid="231" x="896" y="539" width="32" height="32">
+   <properties>
+    <property name="point_value" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="2" gid="231" x="896" y="539" width="32" height="32">
+   <properties>
+    <property name="point_value" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="3" gid="231" x="896" y="539" width="32" height="32">
+   <properties>
+    <property name="point_value" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="4" gid="231" x="1024" y="543" width="32" height="32"/>
+ </objectgroup>
+</map>

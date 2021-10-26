@@ -1,0 +1,311 @@
+{
+    "activeFile": "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project/ninjarun/game/tilemaps/map.json",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "../maps/my-tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "../maps/my_map.json": {
+            "scale": 0.27955729166666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1219.7857475547278,
+                "y": 384.53656264555184
+            }
+        },
+        "../maps/my_map.tmx": {
+            "scale": 0.4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 875,
+                "y": 386.25
+            }
+        },
+        "../maps/my_tileset.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/jucin/Downloads/cse210-project-3d85c8b8c2be8f76a26e0efe957db9d2411f67d1/cse210-project-3d85c8b8c2be8f76a26e0efe957db9d2411f67d1/ninjarun/game/map/map_with_ladders.json": {
+            "scale": 0.0625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 8352,
+                "y": 336
+            }
+        },
+        "C:/Users/jucin/Downloads/cse210-project-3d85c8b8c2be8f76a26e0efe957db9d2411f67d1/cse210-project-3d85c8b8c2be8f76a26e0efe957db9d2411f67d1/ninjarun/game/map/map_with_ladders.json#clean": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/Downloads/cse210-project-3d85c8b8c2be8f76a26e0efe957db9d2411f67d1/cse210-project-3d85c8b8c2be8f76a26e0efe957db9d2411f67d1/ninjarun/game/map/map_with_ladders.json#mytileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/castle.json": {
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 2872,
+                "y": 682
+            }
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/castle.json#castletileset": {
+            "dynamicWrapping": true
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/castle.json#killbill": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/in_construction.json": {
+            "scale": 0.043900390625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 12801.708413044445,
+                "y": 398.62971037060015
+            }
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/in_construction.json#clean": {
+            "dynamicWrapping": true,
+            "scaleInEditor": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/in_construction.json#mytileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/killbill.json": {
+            "scale": 0.024139404296875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 25518.44247787611,
+                "y": 393.5474083438676
+            }
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/killbill.json#killtileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/map_with_ladders.json": {
+            "scale": 0.2615558649495301,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -1781.6461507751683,
+                "y": 231.3081376006387
+            }
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/map_with_ladders.json#mytileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/my_map.json": {
+            "scale": 0.27955729166666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1216.2086632510482,
+                "y": 384.53656264555184
+            }
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/my_map.json#my-tileset": {
+            "dynamicWrapping": true
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/mymap.json": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 14912,
+                "y": -388
+            }
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/mymap.json#mytileset": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - kunai/ninjarun/game/map/map_with_ladders.json": {
+            "scale": 0.125,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2084,
+                "y": 20
+            }
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - kunai/ninjarun/game/map/map_with_ladders.json#clean": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - kunai/ninjarun/game/map/map_with_ladders.json#mytileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - my version/ninjarun/game/map/map_with_ladders.json": {
+            "scale": 0.02391139288561558,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 13048.173374613003,
+                "y": 83.64213701674998
+            }
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - my version/ninjarun/game/map/map_with_ladders.json#clean": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - my version/ninjarun/game/map/map_with_ladders.json#mytileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project/ninjarun/game/tilemaps/map.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2269,
+                "y": 1302
+            }
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project/ninjarun/game/tilemaps/map.json#Enemies": {
+            "dynamicWrapping": true
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project/ninjarun/game/tilemaps/map.json#enemy": {
+            "dynamicWrapping": true
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project/ninjarun/game/tilemaps/map.json#env_mon": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project/ninjarun/game/tilemaps/map.json#kunais": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project/ninjarun/game/tilemaps/map.json#pixel_platform_03_tileset_final": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project/ninjarun/game/tilemaps/test32.json": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 9334,
+                "y": 1140
+            }
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project/ninjarun/game/tilemaps/test32.json#env_mon": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project/ninjarun/game/tilemaps/test32.json#kunais": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project/ninjarun/game/tilemaps/test32.json#pixel_platform_03_tileset_final": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/dark forest castle.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/level_1.json": {
+            "scale": 16.74375,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": -28.547965658827923,
+                "y": 12.960059723777531
+            }
+        },
+        "C:/Users/jucin/OneDrive/Documentos/cse210-project/ninjarun/game/map/map_with_ladders.json": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 669.3333333333333,
+                "y": 648
+            }
+        },
+        "C:/Users/jucin/OneDrive/Documentos/cse210-project/ninjarun/game/map/map_with_ladders.json#kunai": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jucin/OneDrive/Documentos/map/mymap.json#mytileset": {
+            "dynamicWrapping": true
+        },
+        "dark forest castle.tsx": {
+            "scaleInDock": 1
+        },
+        "first.json": {
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 872,
+                "y": 87.5
+            }
+        },
+        "firstmap.json": {
+            "scale": 0.254125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1585.8337432365965,
+                "y": 1603.541564190851
+            }
+        },
+        "map.json": {
+            "scale": 13.745312499999999,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -0.6547686711378873,
+                "y": 19.679436171422076
+            }
+        },
+        "my-map.tmx": {
+            "scale": 0.4025483630952381,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1214.760870569752,
+                "y": 386.2889884940621
+            }
+        },
+        "my-map.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "my_map.tmx": {
+            "scale": 0.27955729166666665,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1223.362831858407,
+                "y": 384.53656264555184
+            }
+        },
+        "my_map.tmx#my_tileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "ninjaworld.json": {
+            "scale": 0.254125,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1585.8337432365965,
+                "y": 1603.541564190851
+            }
+        },
+        "tmw_desert_spacing.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project/ninjarun/game/images/enemies",
+    "openFiles": [
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project/ninjarun/game/tilemaps/map.json"
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project/ninjarun/game/tilemaps/map.json",
+        "C:/Users/jucin/OneDrive/Documentos/cse210-project/ninjarun/game/map/map_with_ladders.json",
+        "C:/Users/jucin/Downloads/cse210-project-3d85c8b8c2be8f76a26e0efe957db9d2411f67d1/cse210-project-3d85c8b8c2be8f76a26e0efe957db9d2411f67d1/ninjarun/game/map/map_with_ladders.json",
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - my version/ninjarun/game/map/map_with_ladders.json",
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project/ninjarun/game/tilemaps/test32.json",
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - kunai/ninjarun/game/map/map_with_ladders.json",
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/map_with_ladders.json",
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/mymap.json",
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/killbill.json",
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/castle.json",
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/level_1.json",
+        "C:/Users/jucin/Dropbox/BYU/2021 - Fall/CSE 210/cse210-project - Tests/ninjarun/game/map/my_map.json"
+    ]
+}
